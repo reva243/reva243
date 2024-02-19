@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|IPsec tunnel with VPN                          |<a href=https://github.com/reva243/Mastering_Networking_Concepts-Projects.git>IPsec tunnel with VPN</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -59,5 +60,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href=https://github.com/reva243/Mastering_Networking_Concepts-Projects.git>IPsec tunnel with VPN</a>
 - SOC Automation Project
